@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`rendering my component should test App component with default state of empty array 1`] = `ShallowWrapper {}`;

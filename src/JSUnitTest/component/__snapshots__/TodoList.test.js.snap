@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TodoList /> should render properly 1`] = `ShallowWrapper {}`;
+
+exports[`<TodoList /> should test <TodoList> component with list of todos 1`] = `ShallowWrapper {}`;
